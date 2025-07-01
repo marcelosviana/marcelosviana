@@ -6,4 +6,4 @@ Desenvolvedor Back-End que ama transformar ideias em soluções funcionais e int
 - 🔍 Em busca de novas oportunidades e desafios profissionais  
 
 🔗 [Me chama no LinkedIn!](https://www.linkedin.com/in/marcelo-sviana/)  
-🌐 [Acesse meu portfólio](https://marcelosviana.github.io/index.html)
+🌐 [Acesse meu portfólio](https://marceloviana.vercel.app/)
